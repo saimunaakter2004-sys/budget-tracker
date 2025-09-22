@@ -1,15 +1,14 @@
 ## Budget Tracker App😎
 #About Project:
-
+*Description*
 This project is a simple *Budget Tracker Application* that helps users to manage their income and expenses.  
 It provides an easy way to add transactions, track savings, and visualize spending.  
 
-## Project Preview
+## Images:
 ![Budget Tracker Screenshot](budget.jpg)
 
 
-
-## Tools and Technology  
+##Build With Tools and Technology  
 
 - *Flutter* (for UI and platform development)  
 - *Dart* (programming language)  
