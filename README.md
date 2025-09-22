@@ -5,7 +5,8 @@ This project is a simple *Budget Tracker Application* that helps users to manage
 It provides an easy way to add transactions, track savings, and visualize spending.  
 
 ## Images:
-![Budget Tracker Screenshot](budget.jpg)
+![Uploading image.png…]()
+
 
 
 ##Build With Tools and Technology  
