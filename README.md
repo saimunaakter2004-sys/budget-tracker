@@ -10,11 +10,11 @@ It provides an easy way to add transactions, track savings, and visualize spendi
 
 ##Build With Tools and Technology  
 
-- *Flutter* (for UI and platform development)  
-- *Dart* (programming language)  
-- *Firebase  (for storing data)  
-- *Android Studio* (IDE for development)  
-- *GitHub* (for version control & hosting project)  
+- Flutter (for UI and platform development)  
+- Dart (programming language)  
+- Firebase  (for storing data)  
+- Android Studio (IDE for development)  
+- GitHub (for version control & hosting project)  
 
 ---
 
